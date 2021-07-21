@@ -209,3 +209,11 @@ td, th {
 .wy-side-nav-search input[type=text] {
     border-color:#ffc938
 }
+
+/*
+ * 메인 페이지 크기 조절
+ *
+ */
+ .wy-nav-content {
+    max-width: 1000px;
+}
