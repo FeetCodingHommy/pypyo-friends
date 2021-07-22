@@ -2,4 +2,5 @@ site_name: 'PyPyo Friends'
 theme:
   name: 'rtd-dropdown'
   custom_dir: custom_theme/
-  
+extra_css:
+  - css/font.css

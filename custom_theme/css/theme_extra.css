@@ -217,3 +217,20 @@ td, th {
  .wy-nav-content {
     max-width: 1000px;
 }
+
+/*
+ * 폰트
+ *
+ */
+h1, h2, .rst-content .toctree-wrapper p.caption, h3, h4, h5, h6, legend {
+	font-family: "ONE-Mobile-POP";
+}
+
+body {
+	font-family: "ELAND_Choice_M";
+}
+
+b, strong {
+	font-family: "ELAND_Choice_B";
+    font-weight: normal;
+}
