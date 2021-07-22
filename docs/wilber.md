@@ -21,3 +21,4 @@ import scrapy
 
 - PIP을 통한 설치: ``` pip install Scrapy ```
 - 공식 다큐먼트: [링크](https://docs.scrapy.org/en/latest/)
+- Google Colab에서 써보기: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/FeetCodingHommy/pypyo-friends/blob/master/jupyternotebooks/wilber.ipynb)

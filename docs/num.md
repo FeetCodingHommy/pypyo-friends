@@ -21,3 +21,4 @@ import numpy as np
 
 - PIP을 통한 설치: ``` pip install numpy ```
 - 공식 다큐먼트: [링크](https://numpy.org/doc/1.21/)
+- Google Colab에서 써보기: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/FeetCodingHommy/pypyo-friends/blob/master/jupyternotebooks/num.ipynb)

@@ -24,3 +24,4 @@ plaidml.keras.install_backend()
 
 - PIP을 통한 설치: ``` pip install plaidml-keras ```
 - 공식 다큐먼트: [링크](https://plaidml.readthedocs.io/en/latest/)
+- Google Colab에서 써보기: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/FeetCodingHommy/pypyo-friends/blob/master/jupyternotebooks/pluto.ipynb)

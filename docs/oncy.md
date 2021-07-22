@@ -19,3 +19,4 @@ import cv2
 
 - PIP을 통한 설치: ``` pip install opencv-python ```
 - 공식 다큐먼트: [링크](https://docs.opencv.org/4.5.2/d6/d00/tutorial_py_root.html)
+- Google Colab에서 써보기: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/FeetCodingHommy/pypyo-friends/blob/master/jupyternotebooks/oncy.ipynb)
