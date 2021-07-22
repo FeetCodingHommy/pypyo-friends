@@ -234,3 +234,7 @@ b, strong {
 	font-family: "ELAND_Choice_B";
     font-weight: normal;
 }
+
+code, .rst-content code {
+	font-family: "D2Coding";
+}
