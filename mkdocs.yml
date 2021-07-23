@@ -5,7 +5,7 @@ nav:
   - Home: index.md
   - Num과 행렬연산: num.md
   - Polon과 데이터프레임: polon.md
-  - Plot.ly와 시각화: plotlyat.md
+  - Plotlyat과 시각화: plotlyat.md
   - Oncy와 컴퓨터 비젼: oncy.md
   - Wilber와 크롤링: wilber.md
   - Tenso, Kris와 딥러닝: tenso_kris.md
