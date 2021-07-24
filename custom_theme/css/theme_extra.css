@@ -193,8 +193,10 @@ td, th {
 
 /*** my custom settings ***/
 
+/* 카카오 색상 대신 파이썬 로고 색상 사용 */
+
 /*
- * 카카오 색상 대신 파이썬 로고 색상 사용
+ * PC 화면 배너 색
  *
  */
 .wy-side-nav-search {
@@ -209,6 +211,15 @@ td, th {
 .wy-side-nav-search input[type=text] {
     border-color:#ffc938
 }
+
+/*
+ * 모바일 화면 배너 색
+ *
+ */
+ .wy-nav-top {
+    background: #ffdf51;
+}
+
 
 /*
  * 메인 페이지 크기 조절
