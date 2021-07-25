@@ -9,6 +9,7 @@
 ## 캐릭터 수정본
 
 - PyPyo Friends 파파오 프렌즈  ─ **Copycat © 2021 Hommy** All rights not reserved.
+![PyPyo Friends (main)](img/pypyo_all.jpg)
 
 ### 제작 도움
 - 일러스트 보조: **달팽스튜디오** [@nolgoshipdang](https://www.instagram.com/nolgoshipdang)
