@@ -2,12 +2,12 @@
 
 ![Apeach](img/kakao_original/apeach.jpg)
 
-- Apeach is now... Oncy 옹씨
+- Apeach is now... Oncy 옹시
 
 <br>
 
 !!! note " "
-    홍씨가 되기 전에 감나무에서 탈출한 악동감 **옹씨**!
+    홍시가 되기 전에 감나무에서 탈출한 악동감 **옹시**!
     <br>
     비쥬얼로 사람들을 매혹시키지만 알아갈수록 더 알아야 할 면모가 자꾸 등장합니다.
 
