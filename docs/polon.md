@@ -6,6 +6,8 @@
 
 <br>
 
+![Polon](img/pc_1920_1080/polon_pc.jpg)
+
 !!! note " "
     판다보다 인기 없어서 슬픈 북극곰, **폴론**.
     <br>
