@@ -6,6 +6,8 @@
 
 <br>
 
+![Tenso & Kris](img/pc_1920_1080/tenso_kris_pc.jpg)
+
 !!! note " "
     부자집 도시고양이 **텐소**.
     <br>
