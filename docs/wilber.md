@@ -6,6 +6,8 @@
 
 <br>
 
+![Wilber](img/pc_1920_1080/wilber_pc.jpg)
+
 !!! note " "
     호기심 많은 장난꾸러기 **윌버**!
     <br>
