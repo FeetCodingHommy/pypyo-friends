@@ -8,6 +8,11 @@
 
 ![Num](img/pc_1920_1080/num_pc.jpg)
 
+- [PC 배경화면 (16x9, 1920x1080) 다운로드](img/pc_1920_1080/num_pc.jpg)
+- [모바일 배경화면 (9x18.5, 1080x2220) 다운로드](img/mobile_1080_2220/num_mobile.jpg)
+- [정사각형 일러스트 (2220x2220) 다운로드](img/square_2220_2220/num_square.jpg)
+- [어도비 일러스트 AI 파일 다운로드](illustration_files/num.ai)
+
 !!! note " "
     유명 라이브러리들을 키운 말없는 정체불명의 뱀 **눔**!
     <br>

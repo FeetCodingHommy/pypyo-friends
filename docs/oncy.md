@@ -8,6 +8,11 @@
 
 ![Oncy](img/pc_1920_1080/oncy_pc.jpg)
 
+- [PC 배경화면 (16x9, 1920x1080) 다운로드](img/pc_1920_1080/oncy_pc.jpg)
+- [모바일 배경화면 (9x18.5, 1080x2220) 다운로드](img/mobile_1080_2220/oncy_mobile.jpg)
+- [정사각형 일러스트 (2220x2220) 다운로드](img/square_2220_2220/oncy_square.jpg)
+- [어도비 일러스트 AI 파일 다운로드](illustration_files/oncy.ai)
+
 !!! note " "
     홍시가 되기 전에 감나무에서 탈출한 악동감 **옹시**!
     <br>
